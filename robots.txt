@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aelahdohr.3tapes.com/sitemap.xml
